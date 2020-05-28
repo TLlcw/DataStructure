@@ -11,7 +11,6 @@ public class AvlNode {
     public AvlNode rchild;
     //结点的高度
     public int height;
-
     @Override
     public String toString() {
         return "AvlNode{" +
