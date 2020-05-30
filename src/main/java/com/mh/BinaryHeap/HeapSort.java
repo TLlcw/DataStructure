@@ -1,5 +1,7 @@
 package com.mh.BinaryHeap;
-
+/**
+ * @author mh
+ * */
 public class HeapSort {
     //new 二叉堆
     BinaryHeap binaryHeap=new BinaryHeap();
